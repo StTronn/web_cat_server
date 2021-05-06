@@ -13,7 +13,7 @@ defusedxml==0.6.0
 docutils==0.15.2
 entrypoints==0.3
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gensim==3.8.2
 gunicorn==20.0.4
 html2text==2020.1.16
